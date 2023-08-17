@@ -8,4 +8,4 @@ metadata:
     apps.open-cluster-management.io/reconcile-rate: medium
 spec:
   type: GitHub
-  pathname: https://github.com/josgonza-rh/rhacm-gitops.git
+  pathname: https://github.com/miltonabatista/rhacm-gitops.git
